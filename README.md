@@ -1,5 +1,5 @@
 # Time-Series-Forecasting
-Time Series Forecasting for Retail Sales in Restaurants
+Time Series Forecasting for Retail Sales in Restaurants.
 
 
 Project Overview:
