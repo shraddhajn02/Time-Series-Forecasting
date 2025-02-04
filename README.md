@@ -1,4 +1,4 @@
-# Monthly Retails Sales Prediction
+# Monthly Retail Sales Prediction
 Time Series Forecasting for Retail Sales in Restaurants.
 
 
